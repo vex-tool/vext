@@ -1,0 +1,16 @@
+*.aux
+*.log
+*.pdf
+*.synctex.gz
+*.pdf
+*.bbl
+*.blg
+*.out
+*.db
+*.ipynb_checkpoints
+*.virtual_documents
+data
+samples
+*.db-shm
+*.db-wal
+__pycache__
