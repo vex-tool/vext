@@ -1,6 +1,6 @@
 # Vulnerability Exploration Tool
 
-The Vulnerability EXploration Tool (VEXT) is provided to promote the research within the vulnerability ecosystem.
+The Vulnerability EXploration Tool (VEXT) is provided to promote the research in the vulnerability ecosystem.
 <img src="./img/vex-tool.png" style="float:right;height:200;display:block;">
 
 
@@ -16,10 +16,12 @@ The Vulnerability EXploration Tool (VEXT) is provided to promote the research wi
 
 The completeness of the dataset can be assessed by comparing the CWE classification of the dataset with the CWE classifications represented with the entire corpus of CVEs from the same time period.
 For example, we used the tool to assess the completeness of the Secbench dataset compared to the most prevalent CWE categories of the year.
+
 ![SecBench completeness](./img/secbench2016.png)
 
 ### Explore trends in weakness patterns
 Starting with a high level overview of the weakness categories, this tool enables practitioners to explore vulnerability reports that are associated with different parts of the weakness taxonomy.
+
 ![](./img/cwe-pillars.png)
 ![](./img/cwe-pillars-logscale.png)
 ![](./img/284.png)
